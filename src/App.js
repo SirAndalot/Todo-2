@@ -5,6 +5,7 @@ import "./App.css";
 
 function App() {
   const [todos, setTodos] = useState([]);
+  // nice
 
   const toggleComplete = i =>
     setTodos(
